@@ -5,6 +5,18 @@
 /tmp
 /out-tsc
 
+# environment
+**/src/environments/environment.prod.ts
+**/src/environments/environment.ts
+
+# firebase
+firebase.json
+database.rules.json
+storage.rules
+firestore.rules
+firestore.indexes.rules
+database.rules.json
+
 # dependencies
 /node_modules
 
